@@ -47,6 +47,8 @@ while True():
     if opcion == '1':
         nombre = input("Nombre: ")
         telefono = input("Telefono: ")
+        email = input("Email: ")
+        nuevo_contacto = Contacto(nombre, telefono, email)
         
 
 
