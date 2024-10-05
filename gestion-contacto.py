@@ -37,6 +37,7 @@ def menu():
     print("4. Salir")
 
 def main():
+    gestor = GestorContactos()
     
 
 
