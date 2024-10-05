@@ -3,3 +3,6 @@ class Contacto:
         self.nombre = nombre
         self.telefono = telefono
         self.email = email
+
+def __str__(self):
+    
