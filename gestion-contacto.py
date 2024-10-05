@@ -27,6 +27,7 @@ class GestorContactos:
         for contactos in self.contactos:
             if contacto.nombre.lower() == nombre.lower():
                 return contacto
+        return None
         
 
 
