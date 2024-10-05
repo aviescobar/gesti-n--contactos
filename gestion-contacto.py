@@ -24,6 +24,7 @@ class GestorContactos:
                 print(contacto)
 
     def buscar_contato(self, nombre):
+        for contactos in self.contactos:
         
 
 
