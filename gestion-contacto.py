@@ -52,6 +52,10 @@ while True():
         gestor.agregar_contacto(nuevo_contacto)
 
     elif opcion == '2':
+        gestor.listar_contactos()
+
+    elif opcion == '3':
+        nombre = input("Ingresa el nombe del contacto a buscar: ")
     
 
 
