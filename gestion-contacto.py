@@ -12,5 +12,7 @@ class GestorContactos:
         self.contactos = []
 
 def agregar_contacto(self, contacto):
+    self.contactos.append(self, contacto):
+    print(f"Contacto '{contacto.nombre}' agregado.")
         
     
