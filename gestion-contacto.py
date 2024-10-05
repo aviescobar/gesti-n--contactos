@@ -61,7 +61,9 @@ while True():
             print("Contacto entrotado: ")
         else:
             print("Contacto no encontrado.")
-    
+
+    elif opcion == '4':
+        print("Saliedo del programa.")
 
 
     
