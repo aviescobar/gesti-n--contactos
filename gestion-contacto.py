@@ -5,4 +5,6 @@ class Contacto:
         self.email = email
 
 def __str__(self):
+    return f"Nombre: {self.nombre}, Telefono: {self.telefono}, Email: {self.email}"
+    
     
