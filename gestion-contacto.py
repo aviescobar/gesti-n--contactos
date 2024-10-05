@@ -65,6 +65,11 @@ while True():
     elif opcion == '4':
         print("Saliedo del programa.")
         break
+
+    else:
+        print("Opcion no valida. Intenta de nuevo.")
+
+
         
 
 
