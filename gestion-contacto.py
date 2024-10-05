@@ -36,6 +36,9 @@ def menu():
     print("3. Buscar contacto")
     print("4. Salir")
 
+def main():
+    
+
 
     
 
