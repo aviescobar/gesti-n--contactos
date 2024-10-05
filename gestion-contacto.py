@@ -32,7 +32,9 @@ class GestorContactos:
 def menu():
     print("/nMenu:")
     print("1. Agregar contacto")
-     print("2. Listar contacto")
+    print("2. Listar contacto")
+     print("3. Buscar contacto")
+
     
 
 
