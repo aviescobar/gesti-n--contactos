@@ -70,6 +70,10 @@ while True():
         print("Opcion no valida. Intenta de nuevo.")
 
 
+if __name__ == "__main__":
+    main()
+
+
         
 
 
