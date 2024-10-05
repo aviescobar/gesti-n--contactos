@@ -16,5 +16,7 @@ def agregar_contacto(self, contacto):
     print(f"Contacto '{contacto.nombre}' agregado.")
 
 def listar_contacto(self):
+    if not self.contactos:
+        
         
     
