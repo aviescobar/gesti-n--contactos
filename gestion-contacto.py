@@ -28,7 +28,10 @@ class GestorContactos:
             if contacto.nombre.lower() == nombre.lower():
                 return contacto
         return None
-        
+
+def menu():
+    print("/nMenu:")
+    print
 
 
         
