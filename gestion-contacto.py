@@ -25,6 +25,8 @@ class GestorContactos:
 
     def buscar_contato(self, nombre):
         for contactos in self.contactos:
+            if contacto.nombre.lower() == nombre.lower():
+                return contacto
         
 
 
