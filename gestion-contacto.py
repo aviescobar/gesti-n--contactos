@@ -17,6 +17,7 @@ def agregar_contacto(self, contacto):
 
 def listar_contacto(self):
     if not self.contactos:
+    print("No hay contactos en la lista.")
         
         
     
