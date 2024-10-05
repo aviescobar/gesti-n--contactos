@@ -6,5 +6,8 @@ class Contacto:
 
 def __str__(self):
     return f"Nombre: {self.nombre}, Telefono: {self.telefono}, Email: {self.email}"
+
+class GestorContactos:
+    def __init__(self):
     
     
