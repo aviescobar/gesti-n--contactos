@@ -59,6 +59,8 @@ while True():
         conctacto = gestor.byuscar_contacto(nombre)
         if contacto:
             print("Contacto entrotado: ")
+        else:
+            print("Contacto no encontrado.")
     
 
 
