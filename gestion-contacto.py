@@ -9,5 +9,6 @@ def __str__(self):
 
 class GestorContactos:
     def __init__(self):
-    
+        self.contactos = []
+        
     
