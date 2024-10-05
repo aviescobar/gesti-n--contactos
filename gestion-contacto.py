@@ -50,6 +50,8 @@ while True():
         email = input("Email: ")
         nuevo_contacto = Contacto(nombre, telefono, email)
         gestor.agregar_contacto(nuevo_contacto)
+
+    elif opcion == '2':
     
 
 
