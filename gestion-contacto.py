@@ -11,15 +11,19 @@ class GestorContactos:
     def __init__(self):
         self.contactos = []
 
-def agregar_contacto(self, contacto):
-    self.contactos.append(self, contacto):
-    print(f"Contacto '{contacto.nombre}' agregado.")
+    def agregar_contacto(self, contacto):
+        self.contactos.append(self, contacto):
+        print(f"Contacto '{contacto.nombre}' agregado.")
 
-def listar_contacto(self):
-    if not self.contactos:
-        print("No hay contactos en la lista.")
-    else:
-        print("Lista de Contactos:")
+    def listar_contacto(self):
+        if not self.contactos:
+            print("No hay contactos en la lista.")
+        else:
+            print("Lista de Contactos:")
+            for contacto in self.contactos:
+        
+
+
         
         
     
