@@ -44,6 +44,9 @@ while True():
     opcion = input("Seleccionar una opcion: ")
 
 
+    if opcion == '1':
+
+
     
 
 
