@@ -38,6 +38,12 @@ def menu():
 
 def main():
     gestor = GestorContactos()
+
+while True():
+    menu()
+    opcion = input("Seleccionar una opcion: ")
+
+
     
 
 
